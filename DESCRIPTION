@@ -1,0 +1,13 @@
+Package: OneWayANCOVAMLE
+Type: Package
+Title: OneWayANCOVAMLE
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal <mondal.anjana25@gmail.com>
+Description: This provides MLEs for the parameters of a one-way ANCOVA model in the cases where the treatment effects are monotonically 
+             increasing and identical under heterogeneous error variances.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: Iso
+RoxygenNote: 7.2.3
